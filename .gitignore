@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore large raster datasets
+data/raw/*.tif
+data/raw/*.tiff
