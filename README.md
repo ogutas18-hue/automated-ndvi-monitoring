@@ -1,8 +1,9 @@
-### **Automated Vegetation Monitoring for Drought Early Warning**
+### **Automated Earth Observation Workflow for Vegetation Monitoring**
 
 #### **Overview**
 
 This project demonstrates an automated Earth Observation workflow for monitoring vegetation conditions using Sentinel-2 imagery and Python. The workflow calculates the Normalized Difference Vegetation Index (NDVI), generates spatial outputs, and produces summary statistics that can support drought monitoring, climate risk assessment, and early warning systems.
+
 
 
 #### **Objectives**
@@ -12,6 +13,7 @@ This project demonstrates an automated Earth Observation workflow for monitoring
 * Generate vegetation condition maps
 * Produce summary statistics
 * Demonstrate geospatial workflow automation
+
 
 
 #### **Technologies**
@@ -24,12 +26,14 @@ This project demonstrates an automated Earth Observation workflow for monitoring
 * GIS \& Remote Sensing
 
 
+
 #### **Project Structure**
 
 * data/
 * scripts/
 * outputs/
 * docs/
+
 
 
 #### **Results**
@@ -53,6 +57,7 @@ Standard Deviation     0.454
 The study area exhibited a mean NDVI of 0.346, indicating moderate vegetation conditions during the observation period. Areas with NDVI values above 0.8 represent healthy vegetation while negative values correspond to water bodies, bare surfaces, or built-up areas.
 
 
+
 #### **Project Outputs**
 
 * Automated NDVI generation
@@ -65,6 +70,7 @@ The study area exhibited a mean NDVI of 0.346, indicating moderate vegetation co
 ###### Vegetation Condition Map
 
 ###### !\[Veget/vegetation\_condition\_map.png
+
 
 
 #### **Applications**
